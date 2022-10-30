@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Payment System</string>
+    <string name="public_key">pk_test_51K3P3dBz57N7RKGaO56KHqGPYZ6DXcMiqe8mhL5t2JgUvNN7e15sscgwEZtUg6QUQ2T193heogBPW5DSzuIL0ccS00ylAwC27W</string>
+    <string name="private_key">sk_test_51K3P3dBz57N7RKGacIo7sghVPlZxUvTxTUzk5I1TXiziP3OImQlicCo5UWXIpbgajT158K9OCwF9B1al1CsXpEly00Bv0yzcrQ</string>
+    <string name="link_payment_intent">https://api.stripe.com/v1/payment_intents</string>
+</resources>
